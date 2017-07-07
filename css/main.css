@@ -55,6 +55,7 @@ a:active {
     height: 550px;
     background-repeat: no-repeat;
     background-position: 50% 20%;
+    margin-top: -2em;
 }
 .hero .content {
     padding-top: 18em;
