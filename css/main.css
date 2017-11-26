@@ -1,6 +1,6 @@
 .body-container {
     margin: 0 auto;
-    font-family: 'Lato', sans-serif;
+    font-family: 'lato', sans-serif;
     color: #000;
 }
 * {
@@ -97,8 +97,19 @@ a:active {
 }
 .reviewsindent {
     padding-left: 3em;
-    padding-bottom: 1em;
-    padding-top: 1em;
+    padding-bottom: .25em;
+    padding-top: .25em;
+}
+blockquote {
+    border-left: 15px solid #C99B34;
+    letter-spacing: .05em;
+    line-height: 25px;
+    margin-left: 0px;
+    margin-bottom: 2.5em;
+    padding-left: 20px;
+}
+blockquote a {
+    word-wrap:
 }
 .footer {
     font-family: 'Reem Kufi', sans-serif;
